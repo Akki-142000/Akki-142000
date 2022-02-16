@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aakash Singh 
-- 👀 I’m interested in DATA SCIENCE
-- 🌱 I’m currently learning Deep learning
-- 💞️ I’m looking for internship
+- I’m interested in data and business analytics.
+- I’m currently learning handling of big data with tools like Pyhton, SQL.
+- Further I would like to work on machine learning and deep learning models with image processing.
 - 📫 How to reach me aakashsingh10103@gmail.com
