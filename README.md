@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Aakash Singh 
+- 👀 I’m interested in DATA SCIENCE
+- 🌱 I’m currently learning Deep learning
+- 💞️ I’m looking for internship
+- 📫 How to reach me aakashsingh10103@gmail.com
